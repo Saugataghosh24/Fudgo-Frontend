@@ -1,0 +1,117 @@
+.navbar{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    width: 150px;
+    cursor: pointer;
+    transition: .5s;
+}
+.logo:hover{
+    transform: scale(1.06);
+}
+
+.navbar-menu{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: #49557e;
+    font-size: 18px;
+}
+
+.navbar-right{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.cart-icon, .search-icon, .sigin{
+    display: flex;
+    gap: 10px; 
+    cursor: pointer;
+}
+.cart-icon p, .search-icon p, .sigin p{
+    margin-top: 4px;
+    font-size: 18px;
+}
+.search-icon:hover, .sigin:hover{
+    filter: invert(.20);
+}
+.cart-icon img, .search-icon img, .sigin img{
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+
+.navbar-menu .active{
+    padding-bottom: 2px;
+    border-bottom: 2px solid #49557e;
+}
+
+li{
+    cursor: pointer;
+}
+
+.navbar-basket-icon{
+    position: relative;
+}
+
+.dot{
+    position: absolute;
+    min-width: 10px;
+    min-height: 10px;
+    background-color: #ff511a;
+    border-radius: 5px;
+    top: -8px;
+    right: -8px;
+}
+
+@media (max-width: 1050px){
+    .navbar .logo{
+        width: 140px;
+    }
+    .navbar-menu{
+        gap: 20px;
+        font-size: 17px;
+    }
+    .navbar-right{
+        gap: 30px;
+    }
+    .navbar-right img{
+        width: 22px;
+    }
+    .navbar-right p{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 900px){
+    .navbar .logo{
+        width: 120px;
+    }
+    .navbar-menu{
+        gap: 15px;
+        font-size: 16px;
+    }
+    .navbar-right{
+        gap: 20px;
+    }
+    .navbar-right img{
+        width: 20px;
+    }
+    .navbar-right p{
+        font-size: 15px;
+    }
+}
+@media (max-width: 750px){
+    .navbar-menu{
+        display: none;
+    }
+    .navbar-right p{
+        display: none;
+    }
+}
