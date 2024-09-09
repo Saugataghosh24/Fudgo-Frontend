@@ -45,6 +45,7 @@ User can place order by giving delivery address and payment for the order.
 2. Navigate to the project directory:
 
    ```bash
+   cd Fudgo-Food-Delivery
    cd frontend
    ```
 
