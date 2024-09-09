@@ -1,6 +1,6 @@
 # Fudgo-Food-Delivery Frontend
 
-![Fudgo Logo](path_to_logo_image)
+![Fudgo Logo](https://github.com/user-attachments/assets/fc782813-5dad-4589-a8a1-7caf6fcae8a7)
 
 Welcome to **Fudgo**, a modern food delivery website designed for quick and convenient online ordering. This repository contains the frontend code built using **React** and **CSS**, offering a sleek and responsive interface for customers to browse and order food from their favorite restaurants.
 
@@ -13,22 +13,22 @@ Welcome to **Fudgo**, a modern food delivery website designed for quick and conv
 ## Screenshots
 
 ### Home Page
-![Home Page Screenshot](path_to_home_screenshot)
+![Home Page Screenshot](https://github.com/user-attachments/assets/66ad7d05-6e16-46ff-aa6d-746af5710aa8)
 
 The homepage displays a curated selection of popular and recommended dishes with quick access to different categories.
 
 ### Sign In Popup
-![Sign In Popup Screenshot](path_to_menu_screenshot)
+![Sign In Popup Screenshot](https://github.com/user-attachments/assets/8701726f-7b4a-44e4-9ce4-bad2f97b6022)
 
 Users can browse through the menu, filter by categories, and select items to add to their cart.
 
 ### Cart Page
-![Cart Page Screenshot](path_to_cart_screenshot)
+![Cart Page Screenshot](https://github.com/user-attachments/assets/4a50b5fc-2e70-4b3e-a4b7-02cd28688b75)
 
 This page summarizes the items selected by the user, showing quantity, price, and options to adjust the order before checking out.
 
 ### Place Order Page
-![Place Order Page Screenshot](path_to_tracking_screenshot)
+![Place Order Page Screenshot](https://github.com/user-attachments/assets/8141f074-e420-4d80-b4ee-108f22dbbb5e)
 
 User can place order by giving delivery address and payment for the order.
 
