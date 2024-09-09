@@ -13,7 +13,9 @@ Welcome to **Fudgo**, a modern food delivery website designed for quick and conv
 ## Screenshots
 
 ### Home Page
-![Home Page Screenshot](https://github.com/user-attachments/assets/66ad7d05-6e16-46ff-aa6d-746af5710aa8)
+![Home-page-1](https://github.com/user-attachments/assets/66ad7d05-6e16-46ff-aa6d-746af5710aa8)
+![Home-page-2](https://github.com/user-attachments/assets/9013bf98-1d41-476a-842a-c69e8c241161)
+![Home-page-3](https://github.com/user-attachments/assets/e2b82f45-73d2-482e-831a-d539d68a94d7)
 
 The homepage displays a curated selection of popular and recommended dishes with quick access to different categories.
 
